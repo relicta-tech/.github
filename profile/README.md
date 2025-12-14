@@ -1,7 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/relicta-tech/relicta/main/brand/relicta-logo-dark-w1200.png">
-  <img alt="Relicta" src="https://raw.githubusercontent.com/relicta-tech/relicta/main/brand/relicta-logo-light-w1200.png" width="420">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/relicta-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="brand/relicta-logo-light.svg">
+    <img alt="Relicta" src="brand/relicta-logo-light.svg" width="280">
+  </picture>
+</div>
 
 ## Release intelligence for modern DevOps
 
